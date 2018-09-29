@@ -1,0 +1,9 @@
+body{background-color:red}
+.greenText{
+  color:green;
+  font-style:italic;
+}
+ul li {
+  display:inline;
+  font-size:30px;
+}
